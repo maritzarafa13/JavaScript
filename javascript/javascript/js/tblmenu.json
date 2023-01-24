@@ -1,0 +1,25 @@
+[
+    {
+    "idmenu" : 1,
+    "idkategori" : 1,
+    "menu" : "Apel Manalagi",
+    "harga" : 3000,
+    "warna" : ["merah", "kuning", "hijau"],
+    "stik" : true,
+    "keterangan" : null
+
+
+},
+{
+
+    "idmenu" : 2,
+    "idkategori" : 1,
+    "menu" : "pisang",
+    "harga" : 2000,
+    "warna" : ["merah", "kuning"],
+    "stik" : false,
+    "keterangan" : null
+   
+}
+
+]
